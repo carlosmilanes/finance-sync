@@ -1,0 +1,10 @@
+{
+  "app_id": "<Enable Banking application ID (uuid)>",
+  "spreadsheet_id": "<Google Sheet ID from the spreadsheet URL>",
+  "account_identification_hash": "<identification_hash of the tracked account, from session.json after renew_API_session.py>",
+  "card_map": {
+    "1111": "Alice",
+    "2222": "Bob"
+  },
+  "credit_card_suffix": "3333"
+}
